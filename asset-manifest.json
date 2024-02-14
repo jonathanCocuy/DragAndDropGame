@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Prueba-tecnica-Kuepa/static/css/main.33e6fb7e.css",
+    "main.js": "/Prueba-tecnica-Kuepa/static/js/main.707ec3b0.js",
+    "static/js/592.6205168e.chunk.js": "/Prueba-tecnica-Kuepa/static/js/592.6205168e.chunk.js",
+    "static/media/id-image.avif": "/Prueba-tecnica-Kuepa/static/media/id-image.553a1280523fe19287f0.avif",
+    "index.html": "/Prueba-tecnica-Kuepa/index.html",
+    "main.33e6fb7e.css.map": "/Prueba-tecnica-Kuepa/static/css/main.33e6fb7e.css.map",
+    "main.707ec3b0.js.map": "/Prueba-tecnica-Kuepa/static/js/main.707ec3b0.js.map",
+    "592.6205168e.chunk.js.map": "/Prueba-tecnica-Kuepa/static/js/592.6205168e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33e6fb7e.css",
+    "static/js/main.707ec3b0.js"
+  ]
+}
