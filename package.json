@@ -2,7 +2,6 @@
   "name": "game-kuepa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jonathanCocuy.github.io/Prueba-tecnica-Kuepa",
   "dependencies": {
     "@ramonak/react-progress-bar": "^5.2.0",
     "@testing-library/jest-dom": "^5.17.0",
